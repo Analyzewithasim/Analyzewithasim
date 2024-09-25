@@ -7,10 +7,7 @@ I'm on a journey to unravel the fascinating stories hidden within intricate data
 - 😄 Pronouns: Analyst/He/Him/His
 
 ![image](https://github.com/Analyzewithasim/Analyzewithasim/assets/150611074/685e3f01-bc83-49f1-a66c-d446aa040c53) 
-
-
-(https://www.linkedin.com/in/asim-pardeshi-0526a429b/)
-
+Asim Pardeshi
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
 
