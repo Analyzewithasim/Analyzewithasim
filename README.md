@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Asim]
+### Hi there 👋, I am Asim
 
 I'm on a journey to unravel the fascinating stories hidden within intricate datasets. My toolbox includes a solid foundation in Python, Microsoft Excel, SQL, and PowerBi. Statistical analysis, Machine learning basic, and programming. Eager to contribute my skills to drive innovation and strategic decision-making in the dynamic world of data science, I find joy in turning complex data into actionable solutions. With a sharp eye for detail and a commitment to continuous learning, I'm excited about the endless possibilities of data-driven excellence. Let's connect and explore this exciting space together!"
 
